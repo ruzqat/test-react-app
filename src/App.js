@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn DIE or whatererelse111
+          Learn DIE
         </a>
       </header>
     </div>
